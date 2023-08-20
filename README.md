@@ -1,1 +1,2 @@
 # tripleten.project.sprint.4.new https://tripleten-sprint4.onrender.com
+# This is the TripleTen Sprint 4 project. Within this project we will be looking at data on vehicles for a car dealership. Our web app will provide the ability to filter between gas and hybrid cars. We will also analyze the distributions on price depending on year of vehicle, four-wheel drive, and transmission type. We will also analyze the distribution of price depending on odometer, cylinders, and condition of the vehicles.
